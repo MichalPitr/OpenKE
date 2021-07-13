@@ -108,7 +108,7 @@ bash make.sh
 4. Quick Start
 ```bash
 cd ../
-cp examples/train_transe_FB15K237.py ./
+cp examples
 python train_transe_FB15K237.py
 ```
 ## Data
